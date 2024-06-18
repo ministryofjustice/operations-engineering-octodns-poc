@@ -132,6 +132,11 @@ afdverify.staging.transportappeals:
   ttl: 300
   type: CNAME
   value: afdverify.sdshmcts-stg.azurefd.net
+alertmanager:
+  ttl: 300
+  type: A
+  value: 194.195.247.228
+
 asylum-support:
   ttl: 942942942
   type: Route53Provider/ALIAS
