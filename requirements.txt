@@ -1,0 +1,2 @@
+octodns>=1.0.1
+octodns-route53==0.0.7
