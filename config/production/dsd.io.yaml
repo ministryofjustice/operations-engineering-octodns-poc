@@ -136,7 +136,10 @@ alertmanager:
   ttl: 300
   type: A
   value: 194.195.247.228
-
+alertmanageragain:
+  ttl: 300
+  type: A
+  value: 193.195.247.228
 asylum-support:
   ttl: 942942942
   type: Route53Provider/ALIAS
